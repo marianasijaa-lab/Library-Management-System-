@@ -14,7 +14,7 @@
 ## التقنيات المستخدمة
 
 - TypeScript
-- HTML5 / CSS3
+- HTML / CSS
 - localStorage (بدون backend)
 
 ## مفاهيم البرمجة كائنية التوجه (OOP)
@@ -30,7 +30,7 @@
 
 1. استنسخ المشروع
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/marianasijaa-lab/Library-Management-System-.git
    ```
 
 2. ثبّت TypeScript إذا لم يكن مثبتاً
@@ -52,7 +52,7 @@
 ├── index.html    # هيكل الصفحة
 ├── index.css     # التنسيقات
 ├── tsconfig.json # إعدادات TypeScript
-└── dist/
+└── public/
     └── app.js    # الملف المحوّل
 ```
 
