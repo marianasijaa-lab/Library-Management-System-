@@ -17,6 +17,15 @@
 - HTML5 / CSS3
 - localStorage (بدون backend)
 
+## مفاهيم البرمجة كائنية التوجه (OOP)
+
+المشروع مبني على مبادئ OOP بشكل كامل:
+
+- **Encapsulation**: جميع خصائص الكلاسات معرّفة كـ private fields باستخدام `#` مع getters للوصول إليها
+- **Inheritance**: كلاس `ReferenceBook` يرث من كلاس `Book` ويضيف خاصية `locationCode`
+- **Polymorphism**: الميثود `displayInfo()` معرّفة في `Book` ومعاد تعريفها في `ReferenceBook` بشكل مختلف
+- **Abstraction**: كلاس `Library` يخفي تفاصيل إدارة الكتب ويعرض واجهة بسيطة للتعامل معها
+
 ## طريقة التشغيل
 
 1. استنسخ المشروع
