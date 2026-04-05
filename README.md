@@ -30,7 +30,7 @@
 
 1. استنسخ المشروع
    ```bash
-   git clone https://github.com/marianasijaa-lab/Library-Management-System-.git
+   git clone https://github.com/marianasijaa-lab/task-1-adv-..git
    ```
 
 2. ثبّت TypeScript إذا لم يكن مثبتاً
