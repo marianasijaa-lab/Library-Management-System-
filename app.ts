@@ -151,7 +151,7 @@ class Library {
   }
 }
 
-// UI Logic
+
 const library = new Library();
 
 if (!localStorage.getItem("books")) {

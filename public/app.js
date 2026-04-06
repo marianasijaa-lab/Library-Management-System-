@@ -119,7 +119,6 @@ class Library {
     }
 }
 _Library_books = new WeakMap();
-// UI Logic
 const library = new Library();
 if (!localStorage.getItem("books")) {
     library.addBook(new Book(1, "Clean Code", "Robert Martin", "Programming", true, "1952", "2008", "American", "4.5"));
